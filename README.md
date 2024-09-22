@@ -7,7 +7,7 @@
 ![Desktop GTK 1](1.png)
 ![Desktop GTK 2](2.png)
 
-## Install Dependencies
+## Install the Dependencies
 ```bash
 $ sudo dnf install curl
 $ sudo dnf install git
